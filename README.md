@@ -10,7 +10,7 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <div style="display: inline_block"> 
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,java,docker,angular,go,git,github"/>
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,java,git,github"/>
         </a>
     </p>
 </div>
